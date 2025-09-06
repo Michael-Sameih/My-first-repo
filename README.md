@@ -1,2 +1,2 @@
 #My first git repository
-new line
+new line 2
